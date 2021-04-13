@@ -8,3 +8,8 @@
 * Effort 
 ###### and you need to learn from the people Criticis and  Success of others to be the best .
 ###### finnaly for more information you can visit :  [growth mind](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)
+###### and to see my work from this table :
+| my job   |    link       |
+|----------|:-------------:|
+| markdown |[read01](https://sbkhaloof.github.io/growthmindsit/read01)|
+| git |[read02](https://sbkhaloof.github.io/growthmindsit/read02)|
