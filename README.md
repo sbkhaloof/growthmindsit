@@ -7,4 +7,4 @@
 * Obstacles
 * Effort 
 ###### and you need to learn from the people Criticis and  Success of others to be the best .
-###### finnaly for more information you can visit :
+###### finnaly for more information you can visit :  [growth mind](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)
