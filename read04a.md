@@ -8,14 +8,7 @@
 ## LINKING TO A JAVASCRIPT FILE FROM AN HTML PAGE
 ###### here we will use Html <script> element and src attribute tells people where the JavaScript file is stored.and i want to tell you a better place to put your scripts is just before the closing </body> tag
 ## Data type 
-| primitive data type|non primitive data type |
-|--------------------|:----------------------:|
-|       number       |        object          |
-|       string       |        array           |
-|       boolean      |        function        |
-|       undefined    |                        |
-|       null         |                        |
-
+![](https://csharpcorner.azureedge.net/article/datatypes-in-javascript/Images/Presentation20.jpg)
 ---------------------------------------------------
 ## Rules for naming variables 
 * the name must begin with letter , ($) , (_), and it must not start with number 
