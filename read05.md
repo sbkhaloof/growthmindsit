@@ -11,7 +11,7 @@
 ###### also you can use expression with comparision operator 
 ## logical operators 
 * and operator &&
-* or (||)
+* or ( || )
 * not !
 ## loops 
 ###### loops used to check a condition .if it return true a code block will run . and the condition will be check again if it return true it will run again . and it will repeats it until the condition return false
