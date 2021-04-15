@@ -6,11 +6,11 @@
 * github account : [github](https://github.com/sbkhaloof)
 and there are a list for my work :
 
-| my job    |    link       |
-|---------- |:-------------:|
-|growth mind|[growth mind](https://sbkhaloof.github.io/growthmindsit/growthmind) |
-| markdown  |[read01](https://sbkhaloof.github.io/growthmindsit/read01)|
-| git       |[read02](https://sbkhaloof.github.io/growthmindsit/read02)|
-|  HTML     |[read03]( https://sbkhaloof.github.io/growthmindsit/read03)     |
-|javascript |[read04a](https://sbkhaloof.github.io/growthmindsit/read04a)|
-
+|      my job      |    link                           |
+|----------------- |:---------------------------------:|
+|   growth mind    |[growth mind](https://sbkhaloof.github.io/growthmindsit/growthmind) |
+|     markdown     |[read01](https://sbkhaloof.github.io/growthmindsit/read01)     |
+|      git         |[read02](https://sbkhaloof.github.io/growthmindsit/read02)     |
+|     HTML         |[read03]( https://sbkhaloof.github.io/growthmindsit/read03)      |
+|   javascript     |[read04a](https://sbkhaloof.github.io/growthmindsit/read04a)    |
+|how computer work |[read04b](https://sbkhaloof.github.io/growthmindsit/read04b)    |
