@@ -16,3 +16,5 @@ and there are a list for my work :
 |how computer work          |[read04b](https://sbkhaloof.github.io/growthmindsit/read04b)    |
 |   javascript2             |[read05](https://sbkhaloof.github.io/growthmindsit/read05)     |
 |Programming with JavaScript|[read06](https://sbkhaloof.github.io/growthmindsit/read06)     |
+|Design web pages with CSS  |[read07](https://sbkhaloof.github.io/growthmindsit/read07)     |
+|   the coder 's computer   |[read09](https://sbkhaloof.github.io/growthmindsit/read09)     |
