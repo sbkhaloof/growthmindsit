@@ -21,8 +21,8 @@
 |   The Coder's Computer    |[read09](https://sbkhaloof.github.io/growthmindsit/read09)     |
 
 ### code 201 
-|          my job               |                     ink                                      |
+|          my job               |                    link                                      |
 |------------------------------ |:------------------------------------------------------------:|
 |Introductory HTML and JavaScrit|[read01] (https://sbkhaloof.github.io/growthmindsit/class-01) |
-|   Basics of HTML, CSS & JS    |  [read02](https://sbkhaloof.github.io/growthmindsit/class02) |
+|   Basics of HTML, CSS & JS    |[read02] (https://sbkhaloof.github.io/growthmindsit/class-02) |
 
