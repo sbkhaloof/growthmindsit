@@ -23,5 +23,9 @@
 ### code 201 
 |          my job               |    link                  |
 |------------------------------ |:------------------------:|
+<<<<<<< HEAD
 |Introductory HTML and JavaScrit|[read01] (https://sbkhaloof.github.io/growthmindsit/class-01)|
 |   Basics of HTML, CSS & JS    |[read02](https://sbkhaloof.github.io/growthmindsit/class-02) |
+=======
+|Introductory HTML and JavaScrit|[read01](https://sbkhaloof.github.io/growthmindsit/class-01) |
+>>>>>>> e965a034a0762605a46d17917c86f651738e0760
