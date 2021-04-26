@@ -21,6 +21,8 @@
 |   The Coder's Computer    |[read09](https://sbkhaloof.github.io/growthmindsit/read09)     |
 
 ### code 201 
-|          my job               |    link                  |
-|------------------------------ |:------------------------:|
-|Introductory HTML and JavaScrit|[read01] (https://sbkhaloof.github.io/growthmindsit/class-01)|
+|          my job               |    link           |
+|------------------------------ |:-----------------:|
+|Introductory HTML and JavaScrit|[read01] (https://sbkhaloof.github.io/growthmindsit/class-01) |
+|
+
