@@ -24,5 +24,5 @@
 |          my job               |    link           |
 |------------------------------ |:-----------------:|
 |Introductory HTML and JavaScrit|[read01] (https://sbkhaloof.github.io/growthmindsit/class-01) |
-|
+|   Basics of HTML, CSS & JS    |[read02](https://sbkhaloof.github.io/growthmindsit/class02) |
 
