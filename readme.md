@@ -7,22 +7,23 @@
 ## and there are a list for my work :
 ### code 101,102
 
-|      my job               |    link                  |
-|-------------------------- |:------------------------:|
+|      my job               |                          link                                      |
+|-------------------------- |:------------------------------------------------------------------:|
 |   growth mind             |[growth mind](https://sbkhaloof.github.io/growthmindsit/growthmind) |
-|     markdown              |[read01](https://sbkhaloof.github.io/growthmindsit/read01)     |
-|      git                  |[read02](https://sbkhaloof.github.io/growthmindsit/read02)     |
-|     HTML                  |[read03]( https://sbkhaloof.github.io/growthmindsit/read03)      |
-|   javascript              |[read04a](https://sbkhaloof.github.io/growthmindsit/read04a)    |
-|how computer work          |[read04b](https://sbkhaloof.github.io/growthmindsit/read04b)    |
-|   javascript2             |[read05](https://sbkhaloof.github.io/growthmindsit/read05)     |
-|Programming with JavaScript|[read06](https://sbkhaloof.github.io/growthmindsit/read06)     |
-|Design web pages with CSS  |[read07](https://sbkhaloof.github.io/growthmindsit/read07)     |
-|   The Coder's Computer    |[read09](https://sbkhaloof.github.io/growthmindsit/read09)     |
+|     markdown              |[read01](https://sbkhaloof.github.io/growthmindsit/read01)          |
+|      git                  |[read02](https://sbkhaloof.github.io/growthmindsit/read02)          |
+|     HTML                  |[read03]( https://sbkhaloof.github.io/growthmindsit/read03)         |
+|   javascript              |[read04a](https://sbkhaloof.github.io/growthmindsit/read04a)        |
+|how computer work          |[read04b](https://sbkhaloof.github.io/growthmindsit/read04b)        |
+|   javascript2             |[read05](https://sbkhaloof.github.io/growthmindsit/read05)          |
+|Programming with JavaScript|[read06](https://sbkhaloof.github.io/growthmindsit/read06)          |
+|Design web pages with CSS  |[read07](https://sbkhaloof.github.io/growthmindsit/read07)          |
+|   The Coder's Computer    |[read09](https://sbkhaloof.github.io/growthmindsit/read09)          |
 
-### code 201 
+### code 201
+ 
 |          my job               |                    link                                      |
 |------------------------------ |:------------------------------------------------------------:|
-|Introductory HTML and JavaScrit|[read01] (https://sbkhaloof.github.io/growthmindsit/class-01) |
-|   Basics of HTML, CSS & JS    |[read02] (https://sbkhaloof.github.io/growthmindsit/class-02) |
+|Introductory HTML and JavaScrit|[read01](https://sbkhaloof.github.io/growthmindsit/class-01)  |
+|   Basics of HTML, CSS & JS    |[read02](https://sbkhaloof.github.io/growthmindsit/class-02)  |
 
