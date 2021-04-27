@@ -26,4 +26,4 @@
 |------------------------------ |:------------------------------------------------------------:|
 |Introductory HTML and JavaScrit|[read01](https://sbkhaloof.github.io/growthmindsit/class-01)  |
 |   Basics of HTML, CSS & JS    |[read02](https://sbkhaloof.github.io/growthmindsit/class-02)  |
-|HTML Lists, Control Flow with JS, and the CSS Box Model|[read02](https://sbkhaloof.github.io/growthmindsit/class-03)|
+|HTML Lists, Control Flow with JS, and the CSS Box Model|[read03](https://sbkhaloof.github.io/growthmindsit/class-03)|
