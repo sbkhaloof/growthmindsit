@@ -50,9 +50,9 @@
 ### letter-spacing, word-spacing
 ![](img/letter and word.PNG)
 ### alignmenT may be left , right,center ,justify .verTical alignment The vertical-align property is a common source of confusion. It is not intended to allow you to vertically align text in the middle of block level elements such as <p> and <div> , although it does have this effect when used with table cells (the <td> and <th> elements). It is more commonly used with inline elements such as <img> , <em> , or <strong> elements. When used with these element
-##h1{text-align:left;}
+## h1{text-align:left;}
 ### text-indent , text-shadow The value of this property is quite complicated because it can take three lengths and a color for the drop shadow.:first-letter, :first-line Technically these are not properties. They are known as pseudo-elements.STyling linkS :link, :visited reSponding To uSerS :hover, :active, :focus
-![](img/styling list.PNG)
-### aTTribuTe SelecTorS
-![](img/selector attribuite.PNG)
+![](img/stylinglist.PNG)
+### Attribute Selectors
+![](img/selectorattribuite.PNG)
 
