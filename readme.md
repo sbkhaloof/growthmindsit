@@ -29,3 +29,4 @@
 |HTML Lists, Control Flow with JS, and the CSS Box Model|[read03](https://sbkhaloof.github.io/growthmindsit/class-03)  |
 |     HTML Links, JS Functions, and Intro to CSS Layo   |[read04](https://sbkhaloof.github.io/growthmindsit/class-04)  |
 |                Images, Color, Text                    |[read05](https://sbkhaloof.github.io/growthmindsit/class-05)  |
+|      Problem Domain, Objects, and the DOM             |[read06](https://sbkhaloof.github.io/growthmindsit/class-06)  |
