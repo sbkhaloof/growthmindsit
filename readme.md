@@ -32,3 +32,4 @@
 |      Problem Domain, Objects, and the DOM             |[read06](https://sbkhaloof.github.io/growthmindsit/class-06)  |
 |  Object-Oriented Programming, HTML Tables             |[read07](https://sbkhaloof.github.io/growthmindsit/class-07)  |
 |                           layout                      |[read08](https://sbkhaloof.github.io/growthmindsit/class-08)  |
+|                 Forms and JS Events                   |[read09](https://sbkhaloof.github.io/growthmindsit/class-09)  |
