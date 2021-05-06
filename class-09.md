@@ -6,12 +6,12 @@
 ![](https://lh3.googleusercontent.com/proxy/IHFU5KLWnLbb1RBQyE7kLHvqh_DdA6bJPn-KlI9n5jQ1CZXGxUMuW81lgKJonNkSVIGEbc-FEBhCF9xuiXTAwFtj)
 ### every <form> element have requires an action attribute. Its value is the URL for the page on the server that will receive the information in the form when it is submitted , method Forms can be sent using one of two methods: get or post.
 ### text input :The **input** element is used to create several different form controls. The value of the type attribute determines what kind of input they will be creating.type="text" When the type attribute has a value of text , it creates a single-line text input. or When the type attribute has a value of password it creates a text box that acts just like a single-line text input, except the characters are blocked out. They are hidden in this way so that if someone is looking over the user's shoulder, they cannot see sensitive data such as passwords.
-+ The **textarea** element is used to create a mutli-line text input. Unlike other input elements this is not an empty element. It should therefore have an opening and a closing tag.
-+ **input** type="radio"Radio buttons allow users to pick just one of a number of options.
-+ **input** type="checkbox" Checkboxes allow users to select (and unselect) one or more options in answer to a question.
-+ **select** A drop down list box (also known as a select box) allows users to select one option from a drop down list.
-+ **input** If you want to allow users to upload a file (for example an image, video, mp3, or a PDF), you will need to use a file input box. type="file" This type of input creates a box that looks like a text inputfollowed by a browse button.
-+ **input**type="submit" The submit button is used to send a form to the server.
++ The textarea element is used to create a mutli-line text input. Unlike other input elements this is not an empty element. It should therefore have an opening and a closing tag.
++ input type="radio"Radio buttons allow users to pick just one of a number of options.
++ input type="checkbox" Checkboxes allow users to select (and unselect) one or more options in answer to a question.
++ select A drop down list box (also known as a select box) allows users to select one option from a drop down list.
++ input If you want to allow users to upload a file (for example an image, video, mp3, or a PDF), you will need to use a file input box. type="file" This type of input creates a box that looks like a text inputfollowed by a browse button.
++ input type="submit" The submit button is used to send a form to the server.
 ### GroupInG Form ElEmEnts You can group related form controls together inside the <fieldset> element. This is particularly helpful for longer forms. The <legend> element can come directly after the opening <fieldset> tag and contains a caption which helps identify the purpose of that group of form controls.
 ![](https://cdn.educba.com/academy/wp-content/uploads/2019/07/HTML-Form-Controls.png)
 
