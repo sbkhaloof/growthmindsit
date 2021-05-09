@@ -33,3 +33,4 @@
 |  Object-Oriented Programming, HTML Tables             |[read07](https://sbkhaloof.github.io/growthmindsit/class-07)  |
 |                           layout                      |[read08](https://sbkhaloof.github.io/growthmindsit/class-08)  |
 |                 Forms and JS Events                   |[read09](https://sbkhaloof.github.io/growthmindsit/class-09)  |
+|                       Debugging                       |[read10](https://sbkhaloof.github.io/growthmindsit/class-10)  |
