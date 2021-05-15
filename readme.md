@@ -34,3 +34,4 @@
 |                           layout                      |[read08](https://sbkhaloof.github.io/growthmindsit/class-08)  |
 |                 Forms and JS Events                   |[read09](https://sbkhaloof.github.io/growthmindsit/class-09)  |
 |                       Debugging                       |[read10](https://sbkhaloof.github.io/growthmindsit/class-10)  |
+|               Assorted Topics                         |[read11](https://sbkhaloof.github.io/growthmindsit/class-11)  |
