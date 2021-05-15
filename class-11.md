@@ -1,11 +1,9 @@
 # Read:Assorted Topics
 ## Audio, Video, Images
-1- controllIng sIzes of Images In css:
-### you can controll the image size using width and hieght  properties in CSS which specify the hieght and width of the image .
-2- alIgnIng Images UsIng css: using float and margin proparties .
-3- centerIng Images UsIng css:  images are inline elements. This means that they flow within the surrounding text. in order to center an image, it should be turned into a block- level element using the display property with a value of block .then use the use the margin property and set the values of the left and right margins to auto.
-4- BackgroUnd Images background-image . ## The path to the image follows
-the letters url , and it is put inside parentheses and quotes.
+1- controllIng sizes of Images in css:you can controll the image size using width and hieght  properties in CSS which specify the hieght and width of the image .
+2- allgning images Using css: using float and margin proparties .
+3- centering images Using css:  images are inline elements. This means that they flow within the surrounding text. in order to center an image, it should be turned into a block- level element using the display property with a value of block .then use the use the margin property and set the values of the left and right margins to auto.
+4- Background images background-image . The path to the image follows the letters url , and it is put inside parentheses and quotes.
 5-background-position: When an image is not being repeated, you can use the background-position property to specify where in the browser window the background
 image should be placed.This property usually has a pair of values. The first represents the horizontal position and the second represents the vertical.
 + left top
