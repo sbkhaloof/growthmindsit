@@ -3,14 +3,13 @@
 ### Charts are far better for displaying data visually than tables and have the added benefit that no one is ever going to press-gang them into use as a layout tool. They’re easier to look at and convey data quickly.
 ### A great way to get started with charts is with Chart.js, a JavaScript plugin that uses HTML5’s canvas element to draw the graph onto the page. 
 ### Setting up:
-+ The first thing we need to do is download Chart.js.(copy it).
-+ Then create a new html page and import the script.in html code we need <canvas> node to render the chart.
+* The first thing we need to do is download Chart.js.
+* Then create a new html page and import the script.in html code we need <canvas> node to render the chart.
 ### now to draw line chart, the first thing we need to do is create a canvas element in our HTML in which Chart.js can draw our chart. Next, we need to write a script that will retrieve the context of the canvas, so add this to the foot of your body element .
 #### Inside the same script tags we need to create our data, in this instance it’s an object that contains labels for the base of our chart and datasets to describe the values on the chart.
 ### there are different types of chart such as  line chart ,  pie chart , bar chart .
-
-## Basic usage of canvas:
-### we used it as <canvas id="tutorial" width="150" height="150"></canvas>
+### Basic usage of canvas:
+#### we used it as canvas id="tutorial" width="150" height="150"
 #### it  have only two attributes, width and height. These are both optional and can also be set using DOM properties. When no width and height attributes are specified, the canvas will initially be 300 pixels wide and 150 pixels high. The element can be sized arbitrarily by CSS, but during rendering the image is scaled to fit its layout size: if the CSS sizing doesn't respect the ratio of the initial canvas, it will appear distorted.
 #### he <canvas> element has a method called getContext(), used to obtain the rendering context and its drawing functions. getContext() takes one parameter, the type of context. For 2D graphics, such as those covered by this tutorial, you specify "2d" to get a CanvasRenderingContext2D.
 #### The script includes a function called draw(), which is executed once the page finishes loading; this is done by listening for the load event on the document. This function, or one like it, could also be called using window.setTimeout(), window.setInterval(), or any other event handler, as long as the page has been loaded first.
