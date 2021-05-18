@@ -36,3 +36,4 @@
 |                       Debugging                       |[read10](https://sbkhaloof.github.io/growthmindsit/class-10)  |
 |               Assorted Topics                         |[read11](https://sbkhaloof.github.io/growthmindsit/class-11)  |
 |                Chart.js, Canvas                       |[read12](https://sbkhaloof.github.io/growthmindsit/class-12)  |
+|                Local Storage                          |[read13](https://sbkhaloof.github.io/growthmindsit/class-13)  |
