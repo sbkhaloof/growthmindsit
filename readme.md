@@ -22,18 +22,19 @@
 
 ### code 201
  
-|                     my job                            |                    link                                      |
-|------------------------------------------------------ |:------------------------------------------------------------:|
-|           Introductory HTML and JavaScrit             |[read01](https://sbkhaloof.github.io/growthmindsit/class-01)  |
-|             Basics of HTML, CSS & JS                  |[read02](https://sbkhaloof.github.io/growthmindsit/class-02)  |
-|HTML Lists, Control Flow with JS, and the CSS Box Model|[read03](https://sbkhaloof.github.io/growthmindsit/class-03)  |
-|     HTML Links, JS Functions, and Intro to CSS Layo   |[read04](https://sbkhaloof.github.io/growthmindsit/class-04)  |
-|                Images, Color, Text                    |[read05](https://sbkhaloof.github.io/growthmindsit/class-05)  |
-|      Problem Domain, Objects, and the DOM             |[read06](https://sbkhaloof.github.io/growthmindsit/class-06)  |
-|  Object-Oriented Programming, HTML Tables             |[read07](https://sbkhaloof.github.io/growthmindsit/class-07)  |
-|                           layout                      |[read08](https://sbkhaloof.github.io/growthmindsit/class-08)  |
-|                 Forms and JS Events                   |[read09](https://sbkhaloof.github.io/growthmindsit/class-09)  |
-|                       Debugging                       |[read10](https://sbkhaloof.github.io/growthmindsit/class-10)  |
-|               Assorted Topics                         |[read11](https://sbkhaloof.github.io/growthmindsit/class-11)  |
-|                Chart.js, Canvas                       |[read12](https://sbkhaloof.github.io/growthmindsit/class-12)  |
-|                Local Storage                          |[read13](https://sbkhaloof.github.io/growthmindsit/class-13)  |
+|                     my job                            |                    link                                       |
+|------------------------------------------------------ |:------------------------------------------------------------: |
+|           Introductory HTML and JavaScrit             |[read01](https://sbkhaloof.github.io/growthmindsit/class-01)   |
+|             Basics of HTML, CSS & JS                  |[read02](https://sbkhaloof.github.io/growthmindsit/class-02)   |
+|HTML Lists, Control Flow with JS, and the CSS Box Model|[read03](https://sbkhaloof.github.io/growthmindsit/class-03)   |
+|     HTML Links, JS Functions, and Intro to CSS Layo   |[read04](https://sbkhaloof.github.io/growthmindsit/class-04)   |
+|                Images, Color, Text                    |[read05](https://sbkhaloof.github.io/growthmindsit/class-05)   |
+|      Problem Domain, Objects, and the DOM             |[read06](https://sbkhaloof.github.io/growthmindsit/class-06)   |
+|  Object-Oriented Programming, HTML Tables             |[read07](https://sbkhaloof.github.io/growthmindsit/class-07)   |
+|                           layout                      |[read08](https://sbkhaloof.github.io/growthmindsit/class-08)   |
+|                 Forms and JS Events                   |[read09](https://sbkhaloof.github.io/growthmindsit/class-09)   |
+|                       Debugging                       |[read10](https://sbkhaloof.github.io/growthmindsit/class-10)   |
+|               Assorted Topics                         |[read11](https://sbkhaloof.github.io/growthmindsit/class-11)   |
+|                Chart.js, Canvas                       |[read12](https://sbkhaloof.github.io/growthmindsit/class-12)   |
+|                Local Storage                          |[read13](https://sbkhaloof.github.io/growthmindsit/class-13)   |
+|      CSS Transforms, Transitions, and Animations      |[read114a](https://sbkhaloof.github.io/growthmindsit/class-14a)|
