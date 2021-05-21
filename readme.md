@@ -38,3 +38,4 @@
 |                Chart.js, Canvas                       |[read12](https://sbkhaloof.github.io/growthmindsit/class-12)   |
 |                Local Storage                          |[read13](https://sbkhaloof.github.io/growthmindsit/class-13)   |
 |      CSS Transforms, Transitions, and Animations      |[read114a](https://sbkhaloof.github.io/growthmindsit/class-14a)|
+|             What Google Learned About Teams           |[read114b](https://sbkhaloof.github.io/growthmindsit/class-14b)|
