@@ -44,5 +44,5 @@
 
 |                     my job                            |                    link                                       |
 |------------------------------------------------------ |:------------------------------------------------------------: |
-|          Introduction to React and Components         |[read01](https://sbkhaloof.github.io/growthmindsit/read_class1 |
+|          Introduction to React and Components         |[read01](https://sbkhaloof.github.io/growthmindsit/read_class1)|
 
