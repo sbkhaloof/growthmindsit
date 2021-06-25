@@ -46,3 +46,9 @@
 |------------------------------------------------------ |:------------------------------------------------------------: |
 |          Introduction to React and Components         |[read01](https://sbkhaloof.github.io/growthmindsit/read_class1)|
 
+
+### Things I want to know more about
+
+|                     question                          |                
+|------------------------------------------------------ |
+|                                                       |
