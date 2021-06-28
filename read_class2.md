@@ -17,3 +17,13 @@ getSnapshotBeforeUpdate, componentDidUpdate, UNSAFE_componentWillUpdate, UNSAFE_
 ### componentDidUpdate() :This method is useful for performing network requests after a change has occurred.
 ### componentWillUnmount() :This method allows you to clean up the DOM and netwrok requests/ subscriptions.
 
+#### Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’? render .
+#### What is the very first thing to happen in the lifecycle of React? Mounting .
+#### Put the following things in the order that they happen: componentDidMount, render, constructor, componentWillUnmount, React Updates? constructor ,ender ,componentDidMount ,React Updates ,componentWillUnmount .
+#### What does componentDidMount do? This method is invoked immediately after a component is mounted.
+
+
+
+
+
+
