@@ -46,6 +46,7 @@
 |------------------------------------------------------ |:------------------------------------------------------------: |
 |          Introduction to React and Components         |[read01](https://sbkhaloof.github.io/growthmindsit/read_class1)|
 |                  State and Props                      |[read02](https://sbkhaloof.github.io/growthmindsit/read_class2)|
+|              Passing Functions as Props               |[read03](https://sbkhaloof.github.io/growthmindsit/read_class3)|
 
 ### Things I want to know more about
 
