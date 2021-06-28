@@ -45,7 +45,7 @@
 |                     my job                            |                    link                                       |
 |------------------------------------------------------ |:------------------------------------------------------------: |
 |          Introduction to React and Components         |[read01](https://sbkhaloof.github.io/growthmindsit/read_class1)|
-
+|                  State and Props                      |[read02](https://sbkhaloof.github.io/growthmindsit/read_class2)|
 
 ### Things I want to know more about
 
