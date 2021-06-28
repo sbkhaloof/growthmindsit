@@ -4,8 +4,10 @@
 + Mounting ,  Constructor, static getDerivedStateFromProps, render, componentDidMount, and UNSAFE_componentWillMount all occur in this order during mounting .
 + Updating , static getDerivedStateFromProps, shouldComponentUpdate, render,
 getSnapshotBeforeUpdate, componentDidUpdate, UNSAFE_componentWillUpdate, UNSAFE_componentWillReceiveProps.
-+  Unmounting
++  Unmounting .
+
 ![](https://miro.medium.com/max/1718/1*u8hTumGAPQMYZIvfgQMfPA.jpeg)
+
 ### The constructor for a React component is called before it is mounted.If the component is a subclass you should call super(props), or the props will be undefined. constructors can be used to assign state using this.state or to bind event handle methods to an instance.
 ### static getDerivedStateFromProps() :This method exists for rare cases where the state relies on changes in props over time.
 ### render() :Render is the only required method in a class component. It will examine this.props and this.state when called. 
