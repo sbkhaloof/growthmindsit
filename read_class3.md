@@ -36,8 +36,10 @@
 ### console.log(objectThree) // Object { hello: "🤪", world: "🐻", laugh: "😂" }
 ### const objectFour = {...objectOne, ...objectTwo, laugh: () => {console.log("😂".repeat(5))}}
 ### objectFour.laugh() // 😂😂😂😂😂
+## what is the first step that the developer does to pass functions between components?
+### create the function where the state will be changed.
 ## How to Pass Functions Between Components? pass a functions as stat to child components .and there are several ways to make sure functions have access to component attributes like this.props and this.state
 ## In your own words, what does the increment function do? it's for maching the name with the names in the array of object if it simmilar will the counter value be counter+1 .
-## How can you pass a method from a parent component into a child component? Passing method as a prop.
-## How does the child component invoke a method that was passed to it from a parent component?
+## How can you pass a method from a parent component into a child component? passed it with a prop to the child component.
+## How does the child component invoke a method that was passed to it from a parent component? using stat method
 
