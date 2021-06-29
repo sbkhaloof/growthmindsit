@@ -12,9 +12,11 @@
 #### in HTML ets the user choose one or more files from their device storage to be uploaded to a server or manipulated by JavaScript via the File API 
 #### Handling Multiple Inputs :When you need to handle multiple controlled input elements, you can add a name attribute to each element and let the handler function choose what to do based on the value of event.target.name.
 #### Controlled Input Null Value .
-##### What is a ‘Controlled Component’?
-##### Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? Why.
-##### How do we target what the user is entering if we have an event handler on an input field?
+1-  What is a ‘Controlled Component’?A controlled component is a component element whose value is controlled by React using state, so with a controlled component, the element value is always driven by the React state.
+2-  Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? Why.no ,update value using set.State by users response as soon as enter them.to be dynamic as html.
+3-  How do we target what the user is entering if we have an event handler on an input field?The event handler exists on each input field using onChange attribute where the handler itself is using event to target the crossponding input.
+
+
 ## The Conditional (Ternary) Operator 
 1- Why would we use a ternary operator? we need it if we want to rewite if condition statment in only one line 
 2- Rewrite the following statement using a ternary statement:
