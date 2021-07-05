@@ -51,6 +51,7 @@
 |              Putting it all together                  |[read05](https://sbkhaloof.github.io/growthmindsit/read_class5)|
 |                      NODE.JS                          |[read06](https://sbkhaloof.github.io/growthmindsit/read_class6)|
 |                       REST                            |[read07](https://sbkhaloof.github.io/growthmindsit/read_class7)|
+|                       APIs                            |[read08](https://sbkhaloof.github.io/growthmindsit/read_class8)|
 
 
 ### Things I want to know more about
