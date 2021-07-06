@@ -52,6 +52,7 @@
 |                      NODE.JS                          |[read06](https://sbkhaloof.github.io/growthmindsit/read_class6)|
 |                       REST                            |[read07](https://sbkhaloof.github.io/growthmindsit/read_class7)|
 |                       APIs                            |[read08](https://sbkhaloof.github.io/growthmindsit/read_class8)|
+|               FUNCTIONAL PROGRAMMING                  |[read09](https://sbkhaloof.github.io/growthmindsit/read_class9)|
 
 
 ### Things I want to know more about
