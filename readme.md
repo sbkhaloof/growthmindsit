@@ -42,17 +42,18 @@
 
 ### code 301
 
-|                     my job                            |                    link                                       |
-|------------------------------------------------------ |:------------------------------------------------------------: |
-|          Introduction to React and Components         |[read01](https://sbkhaloof.github.io/growthmindsit/read_class1)|
-|                  State and Props                      |[read02](https://sbkhaloof.github.io/growthmindsit/read_class2)|
-|              Passing Functions as Props               |[read03](https://sbkhaloof.github.io/growthmindsit/read_class3)|
-|                   React and Forms                     |[read04](https://sbkhaloof.github.io/growthmindsit/read_class4)|
-|              Putting it all together                  |[read05](https://sbkhaloof.github.io/growthmindsit/read_class5)|
-|                      NODE.JS                          |[read06](https://sbkhaloof.github.io/growthmindsit/read_class6)|
-|                       REST                            |[read07](https://sbkhaloof.github.io/growthmindsit/read_class7)|
-|                       APIs                            |[read08](https://sbkhaloof.github.io/growthmindsit/read_class8)|
-|               FUNCTIONAL PROGRAMMING                  |[read09](https://sbkhaloof.github.io/growthmindsit/read_class9)|
+|                     my job                            |                    link                                        |
+|------------------------------------------------------ |:-------------------------------------------------------------: |
+|          Introduction to React and Components         |[read01](https://sbkhaloof.github.io/growthmindsit/read_class1) |
+|                  State and Props                      |[read02](https://sbkhaloof.github.io/growthmindsit/read_class2) |
+|              Passing Functions as Props               |[read03](https://sbkhaloof.github.io/growthmindsit/read_class3) |
+|                   React and Forms                     |[read04](https://sbkhaloof.github.io/growthmindsit/read_class4) |
+|              Putting it all together                  |[read05](https://sbkhaloof.github.io/growthmindsit/read_class5) |
+|                      NODE.JS                          |[read06](https://sbkhaloof.github.io/growthmindsit/read_class6) |
+|                       REST                            |[read07](https://sbkhaloof.github.io/growthmindsit/read_class7) |
+|                       APIs                            |[read08](https://sbkhaloof.github.io/growthmindsit/read_class8) |
+|               FUNCTIONAL PROGRAMMING                  |[read09](https://sbkhaloof.github.io/growthmindsit/read_class9) |
+|                  In memory storage                    |[read10](https://sbkhaloof.github.io/growthmindsit/read_class10)|
 
 
 ### Things I want to know more about
