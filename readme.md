@@ -54,6 +54,7 @@
 |                       APIs                            |[read08](https://sbkhaloof.github.io/growthmindsit/read_class8) |
 |               FUNCTIONAL PROGRAMMING                  |[read09](https://sbkhaloof.github.io/growthmindsit/read_class9) |
 |                  In memory storage                    |[read10](https://sbkhaloof.github.io/growthmindsit/read_class10)|
+|                    Authentication                     |[read11](https://sbkhaloof.github.io/growthmindsit/read_class11)|
 
 
 ### Things I want to know more about
