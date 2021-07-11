@@ -17,8 +17,11 @@
 1. What kind of data is a good fit for an SQL database?
 ####  SQL databases are good fit for the complex query intensive environment whereas NoSQL databases are not good fit for complex queries. On a high-level, NoSQL don’t have standard interfaces to perform complex queries, and the queries themselves in NoSQL are not as powerful as SQL query language.
 2. Give a real world example.
+####  SQL database MS-SQL 
 3. What kind of data is a good fit a NoSQL database?
+#### NoSQL database are good fit and better for the hierarchical data storage as it follows the key-value pair way of storing data similar to JSON data.
 4. Give a real world example.
+#### Mongodb
 5. Which type of database is best for hierarchical data storage?
 #### SQL databases are not best fit for hierarchical data storage. But, NoSQL database fits better for the hierarchical data storage 
 6. Which type of database is best for scalability?
@@ -39,6 +42,10 @@
 6. Howo does it work?
 #### databases do not rely on these structures and use more flexible data models. NoSQL can mean “not SQL” or “not only SQL.” As RDBMS have increasingly failed to meet the performance, scalability, and flexibility needs that next-generation, data-intensive applications require, NoSQL databases have been adopted by mainstream enterprises. NoSQL is particularly useful for storing unstructured data, which is growing far more rapidly than structured data and does not fit the relational schemas of RDBMS. Common types of unstructured data include: user and session data; chat, messaging, and log data; time series data such as IoT and device data; and large objects such as video and images.
 7. What is inside of a Mongo database?
+#### document stored in a collection
 8. Which is more flexible - SQL or MongoDB? and why.
 #### MongoDB
 9. What is the disadvantage of a NoSQL database?
+#### when you want to update a spcific data, you have to update all collections that contain that data.
+
+
