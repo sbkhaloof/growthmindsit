@@ -20,14 +20,17 @@
 ## Build A REST API With Node.js, Express, & MongoDB - Quick
 
 1. Why do we need to pull our MongoDB database string out of our server and put it into our .env?
+#### You can use the mongo shell to query and update data as well as perform administrative … Once you have verified that the mongod server is running, open a terminal … Adding your to the PATH environment variable … You can specify the replica set name and members in the connection string.
 2. What is middleware?
-#### json
+#### is software that provides common services and capabilities to applications outside of what’s offered by the operating system.
 3. What does app.use(express.json()) do?
-####
+#### express. json() is a method inbuilt in express to recognize the incoming Request Object as a JSON Object. This method is called as a middleware in your application using the code: app. … urlencoded() is a method inbuilt in express to recognize the incoming Request Object as strings or arrays
 4. What does the /:id mean in a route?
+#### Gives access to whatever the client provides after the slash.
 5. What is the difference beween PUT and PATCH?
 #### The main difference between PUT and PATCH requests is witnessed in the way the server processes the enclosed entity to update the resource identified by the Request-URI. When making a PUT request, the enclosed entity is viewed as the modified version of the resource saved on the original server, and the client is requesting to replace it. However, with PATCH, the enclosed entity boasts a set of instructions that describe how a resource stored on the original server should be partially modified to create a new version.The second difference is when it comes to idempotency. HTTP PUT is said to be idempotent since it always yields the same results every after making several requests. On the other hand, HTTP PATCH is basically said to be non-idempotent. However, it can be made to be idempotent based on where it is implemented.
 6. How do you make a defalut value in a schema?
+#### You pass in default into the keys.
 7. What does a 500 error status code mean?
 #### Internal Server Error
 8. What is the difference between a status 200 and a status 201?
