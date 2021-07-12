@@ -56,6 +56,8 @@
 |                  In memory storage                    |[read10](https://sbkhaloof.github.io/growthmindsit/read_class10)|
 |                    Authentication                     |[read11](https://sbkhaloof.github.io/growthmindsit/read_class11)|
 |                  Mongo and Mongoose                   |[read12](https://sbkhaloof.github.io/growthmindsit/read_class12)|
+|                        CRUD                           |[read13](https://sbkhaloof.github.io/growthmindsit/read_class13)|
+
 
 
 ### Things I want to know more about
