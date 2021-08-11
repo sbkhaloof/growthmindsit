@@ -41,7 +41,10 @@
 |      CSS Transforms, Transitions, and Animations      |[read114a](https://sbkhaloof.github.io/growthmindsit/class-14a)|
 |             What Google Learned About Teams           |[read114b](https://sbkhaloof.github.io/growthmindsit/class-14b)|
 
+
+
 ### code 301
+
 
 |                     my job                            |                    link                                        |
 |------------------------------------------------------ |:-------------------------------------------------------------: |
@@ -61,8 +64,17 @@
 |                Project Ideas                          |[read14](https://sbkhaloof.github.io/growthmindsit/read_class14)|
 
 
-### Things I want to know more about
 
-|                     question                          |                
-|------------------------------------------------------ |
-|                                                       |
+
+
+
+### Code 401
+
+
+
+|                     my job                            |                    link                                        |
+|------------------------------------------------------ |:-------------------------------------------------------------: |
+|              Node Ecosystem, TDD, CI/CD               |[read01](https://sbkhaloof.github.io/growthmindsit/prep-401)    |
+|                                                       |                                                                |
+
+
