@@ -45,4 +45,4 @@ res.send(wData)
 ### Are all callback functions considered to be Asynchronous? Why or Why Not?
 #### Argument function can be called synchronously(Simply taking a callback doesn't make a function asynchronous. There are many examples of functions that take a function argument but are not asynchronous. For example there's forEach in Array. It iterates over each item and calls the function once per item),also Asynchronous function needs to perform an asynchronous operation ; For a function to be asynchronous it needs to perform an asynchronous operation. It needs to incorporate the argument callback in handling the results of this asynchronous operation. Only this way the function becomes asynchronous.
 
-*Home Page:[my note]((https://sbkhaloof.github.io/growthmindsit/readme)
+[Home Page](https://sbkhaloof.github.io/growthmindsit/readme)
