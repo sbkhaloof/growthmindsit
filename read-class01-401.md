@@ -12,32 +12,19 @@
 -------------------------------------------------
 ### Provide code snippets showing how to use superagent() to fetch data from a URL and log the result
 1. With normal Promise .then() syntax :
-#### function getWeatherInfoHandler(req,res){
-let findQuery=req.query.cityName;
-let weatherUrl=`https://api.weatherbit.io/v2.0/forecast/daily?city=${findQuery}&key=${process.env.WEATHER_API_KEY}`
-axios
-.get(weatherUrl)
-.then(weatherData=>
-     {
-       let wData=weatherData.data.data.map(city=>{
-       return new Forecast(city.valid_date,city.weather.description)
-     })
-res.send(wData)
-
- })
+#### 
+superagent.get('/someOtherUrl').then(data=>{console.log(data.body)}).catch(err=>{console.error(err)})
 
 
 2. Again with async / await syntax
-#### getWeatherData = async () => {
-    let city = this.state.findQuery.charAt(0).toUpperCase() + this.state.findQuery.slice(1); 
-    let weatherUrl = `https://city-explorer-api-backend.herokuapp.com/getWeatherInfo?cityName=${city}&format=json`;
-     let weather = await axios.get(weatherUrl);
-    await this.setState({
-      weatherArr:weather.data,
-      showWeather:true,
-      })
-  }
------------------------------------------------
+
+#### 
+let getUrlData=async()=>{
+  let data=await superagent.get(url);
+console.log(data.body);
+}
+getUrlData();
+----------------------------------------
 ### Explain promises as though you were mentoring a Code 301 level student
 #### A Promise is an object that represents the eventual completion (or failure) of an asynchronous operation, and its resulting value.The Promise object works as proxy for a value not necessarily known when the promise is created. It allows you to associate handlers with an asynchronous action’s eventual success value or failure reason.This lets asynchronous methods return values like synchronous methods: instead of immediately returning the final value, the asynchronous method returns a promise to supply the value at some point in the future.
 
