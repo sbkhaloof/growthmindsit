@@ -4,7 +4,7 @@
 * E_mail : sehammalkawi92@gmail.com
 * phone number : 962 775389215
 * github account : [github](https://github.com/sbkhaloof)
-
+* reading note home page: [Github view](https://github.com/sbkhaloof/growthmindsit)
 
 ## and there are a list for my work :
 ### code 101,102
@@ -73,9 +73,9 @@
 
 
 
-|                     my job                            |                    link                                        |
-|------------------------------------------------------ |:-------------------------------------------------------------: |
-|              Node Ecosystem, TDD, CI/CD               |[read01](https://sbkhaloof.github.io/growthmindsit/prep-401)    |
-|                                                       |                                                                |
+|                     my job                            |                        link                                        |
+|------------------------------------------------------ |:-----------------------------------------------------------------: |
+|         How to Solve Programming Problems             |[read00](https://sbkhaloof.github.io/growthmindsit/prep-401)        |
+|              Node Ecosystem, TDD, CI/CD               |[read01](https://sbkhaloof.github.io/growthmindsit/read-class01-401)|
 
 
