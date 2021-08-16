@@ -78,5 +78,5 @@
 |         How to Solve Programming Problems             |[read00](https://sbkhaloof.github.io/growthmindsit/prep-401)        |
 |              Node Ecosystem, TDD, CI/CD               |[read01](https://sbkhaloof.github.io/growthmindsit/read-class01-401)|
 |                       Express                         |[read02](https://sbkhaloof.github.io/growthmindsit/read-class02-401)|
-
+|                Express REST API                       |[read03](https://sbkhaloof.github.io/growthmindsit/read-class03-401)|
 
