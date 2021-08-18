@@ -79,4 +79,4 @@
 |              Node Ecosystem, TDD, CI/CD               |[read01](https://sbkhaloof.github.io/growthmindsit/read-class01-401)|
 |                       Express                         |[read02](https://sbkhaloof.github.io/growthmindsit/read-class02-401)|
 |                Express REST API                       |[read03](https://sbkhaloof.github.io/growthmindsit/read-class03-401)|
-
+|                 Data Modeling                         |[read04](https://sbkhaloof.github.io/growthmindsit/read-class04-401)|
