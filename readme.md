@@ -80,3 +80,4 @@
 |                       Express                         |[read02](https://sbkhaloof.github.io/growthmindsit/read-class02-401)|
 |                Express REST API                       |[read03](https://sbkhaloof.github.io/growthmindsit/read-class03-401)|
 |                 Data Modeling                         |[read04](https://sbkhaloof.github.io/growthmindsit/read-class04-401)|
+|                 Linked Lists                          |[read05](https://sbkhaloof.github.io/growthmindsit/read-class05-401)|
