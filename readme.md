@@ -82,3 +82,4 @@
 |                 Data Modeling                         |[read04](https://sbkhaloof.github.io/growthmindsit/read-class04-401)|
 |                 Linked Lists                          |[read05](https://sbkhaloof.github.io/growthmindsit/read-class05-401)|
 |                  Authentication                       |[read06](https://sbkhaloof.github.io/growthmindsit/read-class06-401)|
+|             Bearer Authorization                      |[read07](https://sbkhaloof.github.io/growthmindsit/read-class07-401)|
