@@ -85,3 +85,4 @@
 |             Bearer Authorization                      |[read07](https://sbkhaloof.github.io/growthmindsit/read-class07-401)|
 |             Access Control (ACL)                      |[read08](https://sbkhaloof.github.io/growthmindsit/read-class08-401)|
 |          Authorization/Authentication                 |[read09](https://sbkhaloof.github.io/growthmindsit/read-class09-401)|
+|                 Stacks and Queues                     |[read10](https://sbkhaloof.github.io/growthmindsit/read-class10-401)|
