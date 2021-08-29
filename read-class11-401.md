@@ -13,6 +13,13 @@
 ###
 **To put it in a formula: business capability = skills + capacity of a business function**
  ## Preparation Materials
+![](https://www.tutorialspoint.com/nodejs/images/event_loop.jpg)
+### Event-Driven Programming is a logical pattern that we can choose to confine our programming within to avoid issues of complexity and collision.
+ 
+ #### Event-Driven Programming makes use of the following concepts:
+ - An Event Handler is a callback function that will be called when an event is triggered.
+ - A Main Loop listens for event triggers and calls the associated event handler for that event.
+#### EventEmitter : Node.js natively provides us with a useful module called EventEmitter that allows us to get started incorporating Event-Driven Programming in our project right away.
  [Event Driven Programming](https://www.digitalocean.com/community/tutorials/nodejs-event-driven-programming)
  ###
  [Node docs: events](https://nodejs.org/api/events.html)
