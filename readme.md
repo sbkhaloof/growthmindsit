@@ -89,3 +89,4 @@
 |              Event Driven Applications                |[read11](https://sbkhaloof.github.io/growthmindsit/read-class11-401)|
 |                      Socket.io                        |[read12](https://sbkhaloof.github.io/growthmindsit/read-class12-401)|
 |                  Message Queues                       |[read13](https://sbkhaloof.github.io/growthmindsit/read-class13-401)|
+|              Event Driven Architecture                |[read14](https://sbkhaloof.github.io/growthmindsit/read-class14-401)|
