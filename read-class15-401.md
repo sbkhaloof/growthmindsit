@@ -8,7 +8,7 @@
 + Edge - The edge in a tree is the link between a parent and child node
 + Leaf - A leaf is a node that does not have any children
 + Height - The height of a tree is the number of edges from the root to the furthest leaf.
-![](https://cdn.programiz.com/sites/tutorial2program/files/nodes-edges_0.png)
+![](https://adrianmejia.com/images/tree-parts.jpg)
 + Height of a Node : The height of a node is the number of edges from the node to the deepest leaf (ie. the longest path from the node to a leaf node).
 + Depth of a Node : The depth of a node is the number of edges from the root to the node.
 + Height of a Tree : The height of a Tree is the height of the root node or the depth of the deepest node.
