@@ -17,7 +17,12 @@
 ## Preparation Materials
 
 ### What is a Virtual Machine (VM)? A virtual machine (VM) is a virtual environment that functions as a virtual computer system with its own CPU, memory, network interface, and storage, created on a physical hardware system (located off- or on-premises). Software called a hypervisor separates the machine’s resources from the hardware and provisions them appropriately so they can be used by the VM. 
-### why VM?
+### What Is a Hypervisor? The central component of a VM is a type of software;A hypervisor acts to isolate an individual virtual machine in the cloudspace. A hypervisor isn’t just a divider for your VMs — it’s much more than that. In addition to providing an impermeable virtual border between multiple OSes, your hypervisor will simulate the hardware components of a traditional operating system.
+
+
+### What Is Cloud Computing?
+#### Cloud computing is the delivery of different services through the Internet. These resources include tools and applications like data storage, servers, databases, networking, and software.
+#### Virtualization : enables users to disjoint operating systems from the underlying hardware, i.e, users can run multiple operating systems such as Windows, Linux, on a single physical machine at the same time. Such operating systems are known as guest Oses (operating systems).
 
 
 
