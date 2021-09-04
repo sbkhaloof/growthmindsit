@@ -91,3 +91,4 @@
 |                  Message Queues                       |[read13](https://sbkhaloof.github.io/growthmindsit/read-class13-401)|
 |              Event Driven Architecture                |[read14](https://sbkhaloof.github.io/growthmindsit/read-class14-401)|
 |                      Trees                            |[read15](https://sbkhaloof.github.io/growthmindsit/read-class15-401)|
+|                AWS: Cloud Servers                     |[read16](https://sbkhaloof.github.io/growthmindsit/read-class16-401)|
