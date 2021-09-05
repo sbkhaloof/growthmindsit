@@ -92,3 +92,4 @@
 |              Event Driven Architecture                |[read14](https://sbkhaloof.github.io/growthmindsit/read-class14-401)|
 |                      Trees                            |[read15](https://sbkhaloof.github.io/growthmindsit/read-class15-401)|
 |                AWS: Cloud Servers                     |[read16](https://sbkhaloof.github.io/growthmindsit/read-class16-401)|
+|                     S3 and Lambda                     |[read17](https://sbkhaloof.github.io/growthmindsit/read-class17-401)|
