@@ -43,5 +43,5 @@
 #### s a fast and flexible NoSQL database service. It's suitable for any applications that require a stable work with a delay of no more than a few milliseconds at any scale and it's a fully managed database. DynamoDB supports data models like key-value pair and document data structures. DynamoDB is allowed to be used for web apps or mobile apps, games, different platforms and the "Internet of things" and other applications due to it's flexibility and reliability.
 ### Dynamoose : Dynamoose is a modeling tool for Amazon's DynamoDB. Dynamoose is heavily inspired by Mongoose, which means if you are coming from Mongoose the syntax will be very familar.
 
-
+<<>>
 [Github view](https://github.com/sbkhaloof/growthmindsit)
