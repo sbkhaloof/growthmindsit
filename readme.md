@@ -95,3 +95,4 @@
 |                     S3 and Lambda                     |[read17](https://sbkhaloof.github.io/growthmindsit/read-class17-401)|
 |             AWS: API, Dynamo and Lambda               |[read18](https://sbkhaloof.github.io/growthmindsit/read-class18-401)|
 |                         AWS: Events                   |[read19](https://sbkhaloof.github.io/growthmindsit/read-class19-401)|
+|                 Component Based UI                    |[read26](https://sbkhaloof.github.io/growthmindsit/read-class19-401)|
