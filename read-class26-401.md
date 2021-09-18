@@ -19,8 +19,20 @@ Some common examples of Framework are:
 ## Document the following Vocabulary Terms
 1. Rendering :to showing the output in the browser.
 2. Templates : A template is a chunk of HTML that you need to inject onto the page.
-3. State
+3. State : The state object is where you store property values that belongs to the component.When the state object changes, the component re-renders.
+
+
 ## Preparation Materials
-### react hello world
-### introducing JSX
-### rendering elements
+![](https://cdn.educba.com/academy/wp-content/uploads/2020/07/React-JSX.jpg)
+#### JSX stands for JavaScript XML. allows us to write HTML in React.JSX makes it easier to write and add HTML in React.
+#### JSX allows us to write HTML elements in JavaScript and place them in the DOM without any createElement()  and/or appendChild() methods.JSX converts HTML tags into react elements.
+
+
+
+[sass cheatsheet](https://devhints.io/sass)
+
+[react cheatsheet](https://devhints.io/react)
+
+[another react cheatsheet](https://reactcheatsheet.com/)
+
+[Github view](https://github.com/sbkhaloof/growthmindsit)
