@@ -96,3 +96,4 @@
 |             AWS: API, Dynamo and Lambda               |[read18](https://sbkhaloof.github.io/growthmindsit/read-class18-401)|
 |                         AWS: Events                   |[read19](https://sbkhaloof.github.io/growthmindsit/read-class19-401)|
 |                 Component Based UI                    |[read26](https://sbkhaloof.github.io/growthmindsit/read-class26-401)|
+|                     useState() Hook                   |[read27](https://sbkhaloof.github.io/growthmindsit/read-class27-401)|
