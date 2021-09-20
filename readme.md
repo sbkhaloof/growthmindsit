@@ -1,12 +1,16 @@
-# introduction 
-## I'm siham khaloof , studing biomedical engneering at yarmouk university 
-###### you can contact me using :
+# introduction
+
+## I'm siham khaloof , studing biomedical engneering at yarmouk university
+
+###### you can contact me using
+
 * E_mail : sehammalkawi92@gmail.com
 * phone number : 962 775389215
 * github account : [github](https://github.com/sbkhaloof)
 * reading note home page: [Github view](https://github.com/sbkhaloof/growthmindsit)
 
-## and there are a list for my work :
+## and there are a list for my work
+
 ### code 101,102
 
 |      my job               |                          link                                      |
@@ -23,7 +27,7 @@
 |   The Coder's Computer    |[read09](https://sbkhaloof.github.io/growthmindsit/read09)          |
 
 ### code 201
- 
+
 |                     my job                            |                    link                                       |
 |------------------------------------------------------ |:------------------------------------------------------------: |
 |           Introductory HTML and JavaScrit             |[read01](https://sbkhaloof.github.io/growthmindsit/class-01)   |
@@ -42,10 +46,7 @@
 |      CSS Transforms, Transitions, and Animations      |[read114a](https://sbkhaloof.github.io/growthmindsit/class-14a)|
 |             What Google Learned About Teams           |[read114b](https://sbkhaloof.github.io/growthmindsit/class-14b)|
 
-
-
 ### code 301
-
 
 |                     my job                            |                    link                                        |
 |------------------------------------------------------ |:-------------------------------------------------------------: |
@@ -64,14 +65,7 @@
 |                        CRUD                           |[read13](https://sbkhaloof.github.io/growthmindsit/read_class13)|
 |                Project Ideas                          |[read14](https://sbkhaloof.github.io/growthmindsit/read_class14)|
 
-
-
-
-
-
 ### Code 401
-
-
 
 |                     my job                            |                        link                                        |
 |------------------------------------------------------ |:-----------------------------------------------------------------: |
@@ -97,3 +91,4 @@
 |                         AWS: Events                   |[read19](https://sbkhaloof.github.io/growthmindsit/read-class19-401)|
 |                 Component Based UI                    |[read26](https://sbkhaloof.github.io/growthmindsit/read-class26-401)|
 |                     useState() Hook                   |[read27](https://sbkhaloof.github.io/growthmindsit/read-class27-401)|
+|          Component Lifecycle / useEffect()            |[read27](https://sbkhaloof.github.io/growthmindsit/read-class28-401)|
