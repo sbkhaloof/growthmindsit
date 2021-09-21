@@ -91,4 +91,5 @@
 |                         AWS: Events                   |[read19](https://sbkhaloof.github.io/growthmindsit/read-class19-401)|
 |                 Component Based UI                    |[read26](https://sbkhaloof.github.io/growthmindsit/read-class26-401)|
 |                     useState() Hook                   |[read27](https://sbkhaloof.github.io/growthmindsit/read-class27-401)|
-|          Component Lifecycle / useEffect()            |[read27](https://sbkhaloof.github.io/growthmindsit/read-class28-401)|
+|          Component Lifecycle / useEffect()            |[read28](https://sbkhaloof.github.io/growthmindsit/read-class28-401)|
+|              Advanced State with Reducers             |[read29](https://sbkhaloof.github.io/growthmindsit/read-class29-401)|
