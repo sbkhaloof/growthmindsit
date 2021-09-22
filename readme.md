@@ -93,3 +93,4 @@
 |                     useState() Hook                   |[read27](https://sbkhaloof.github.io/growthmindsit/read-class27-401)|
 |          Component Lifecycle / useEffect()            |[read28](https://sbkhaloof.github.io/growthmindsit/read-class28-401)|
 |              Advanced State with Reducers             |[read29](https://sbkhaloof.github.io/growthmindsit/read-class29-401)|
+|                      Hash Tables                      |[read30](https://sbkhaloof.github.io/growthmindsit/read-class30-401)|
