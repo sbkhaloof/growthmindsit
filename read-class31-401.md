@@ -38,10 +38,33 @@ then create asynchronous function and put it above in effect hook and call it
 
 ## Preparation Materials
 
-### Context :
+### Context API is a React API that can solve a lot of problems that modern applications face related to state management and how they’re passing state to their components.
 
+### When to Use Context ❓
+Context is designed to share data that can be considered “global” for a tree of React components, such as the current authenticated user, theme, or preferred language.
 
+**If you only want to avoid passing some props through many levels, component composition is often a simpler solution than context.**
 
+API
 
+React.createContext
+```const MyContext = React.createContext(defaultValue);```
+
+After creating your context, that context now has two React components that are going to be used: Provider and Consumer.
+
+Provider : The Provider component is going to be used to wrap the components that are going to have access to our context.
+
+Consumer : The Consumer component allows a React component to subscribe to the context changes. The component makes the data available using a render prop.
+
+useContext Hook
+The useContext hook allows us to connect and consume a context. The useContext hook receives a single argument, which is the context that you want to have access to.
+
+The useContext is way better and cleaner than the Consumer component—we can easily understand what’s going on and increase the maintainability of our application.
+
+[context api](https://reactjs.org/docs/context.html)
+
+[hooks and context example](https://medium.com/swlh/snackbars-in-react-an-exercise-in-hooks-and-context-299b43fd2a2b)
+
+[react context links](https://github.com/diegohaz/awesome-react-context)
 
 [Github view](https://github.com/sbkhaloof/growthmindsit)
