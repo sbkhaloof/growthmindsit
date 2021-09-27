@@ -15,4 +15,4 @@
 
 + static context :A static method or, block belongs to the class and these will be loaded into the memory along with the class. You can invoke static methods without creating an object. used with class component when your app has one context
 
-
+[Github view](https://github.com/sbkhaloof/growthmindsit)

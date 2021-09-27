@@ -96,3 +96,4 @@
 |                      Hash Tables                      |[read30](https://sbkhaloof.github.io/growthmindsit/read-class30-401)|
 |                     Context API                       |[read31](https://sbkhaloof.github.io/growthmindsit/read-class31-401)|
 |             Context API - Behaviors                   |[read32](https://sbkhaloof.github.io/growthmindsit/read-class32-401)|
+|                    Login  and Auth                    |[read32](https://sbkhaloof.github.io/growthmindsit/read-class33-401)|
