@@ -98,4 +98,5 @@
 |             Context API - Behaviors                   |[read32](https://sbkhaloof.github.io/growthmindsit/read-class32-401)|
 |                    Login  and Auth                    |[read33](https://sbkhaloof.github.io/growthmindsit/read-class33-401)|
 |                   API Integration                     |[read34](https://sbkhaloof.github.io/growthmindsit/read-class34-401)|
+|                      Graphs                           |[read35](https://sbkhaloof.github.io/growthmindsit/read-class35-401)|
 
