@@ -99,4 +99,5 @@
 |                    Login  and Auth                    |[read33](https://sbkhaloof.github.io/growthmindsit/read-class33-401)|
 |                   API Integration                     |[read34](https://sbkhaloof.github.io/growthmindsit/read-class34-401)|
 |                      Graphs                           |[read35](https://sbkhaloof.github.io/growthmindsit/read-class35-401)|
+|             Application State with Redux              |[read36](https://sbkhaloof.github.io/growthmindsit/read-class36-401)|
 
