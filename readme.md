@@ -100,4 +100,5 @@
 |                   API Integration                     |[read34](https://sbkhaloof.github.io/growthmindsit/read-class34-401)|
 |                      Graphs                           |[read35](https://sbkhaloof.github.io/growthmindsit/read-class35-401)|
 |             Application State with Redux              |[read36](https://sbkhaloof.github.io/growthmindsit/read-class36-401)|
+|             Redux - Combined Reducers                 |[read37](https://sbkhaloof.github.io/growthmindsit/read-class37-401)|
 
