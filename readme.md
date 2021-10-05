@@ -102,5 +102,6 @@
 |             Application State with Redux              |[read36](https://sbkhaloof.github.io/growthmindsit/read-class36-401)|
 |             Redux - Combined Reducers                 |[read37](https://sbkhaloof.github.io/growthmindsit/read-class37-401)|
 |             Redux - Asynchronous Actions              |[read38](https://sbkhaloof.github.io/growthmindsit/read-class38-401)|
-
+|               Redux - Additional Topics               |[read39](https://sbkhaloof.github.io/growthmindsit/read-class39-401)|
+  
 
